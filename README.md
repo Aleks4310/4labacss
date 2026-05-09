@@ -1,1 +1,1 @@
-<h1 align="center"><font color="black"></font>Static Web Page Of A Fast Food Restaurant</font></h1>
+<h1 align="center"><font color="red">Static Web Page Of A Fast Food Restaurant</font></h1>
