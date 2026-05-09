@@ -1,2 +1,2 @@
 <h1 align="center"><a href="https://aleks4310.github.io/MainPageOfaFastFoodRestaurant/">Static Web Page Of A Fast Food Restaurant</a></h1>
-<img src="https://giffiles.alphacoders.com/219/219888.gif">
+<img src="https://giffiles.alphacoders.com/219/219888.gif" align="center">
