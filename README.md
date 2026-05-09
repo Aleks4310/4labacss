@@ -1,1 +1,1 @@
-<h1 align="center"><a href="">Static Web Page Of A Fast Food Restaurant</a></h1>
+<h1 align="center"><a href="https://aleks4310.github.io/MainPageOfaFastFoodRestaurant/">Static Web Page Of A Fast Food Restaurant</a></h1>
